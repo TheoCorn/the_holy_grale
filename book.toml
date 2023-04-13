@@ -1,0 +1,5 @@
+[book]
+authors = ["Theodor Capek"]
+language = "en"
+multilingual = false
+src = "src"
