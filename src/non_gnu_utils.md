@@ -38,6 +38,9 @@ better git diff
 ## peco 
 interactive grep
 
+## atool
+A package containg a lot of tools. Like a nice archive manager (apack/aunpack)
+
 
 # These have nothing to do with GNU utils
 
