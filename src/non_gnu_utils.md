@@ -8,6 +8,9 @@
 fselect is an alternative to find with sql like syntax.
 It doesn't sound as good as it is
 
+## fd 
+An alternative to find and is a lot more consise than fselect
+
 ## choose
 choose is an alternative for grep/sed/awk/cut (kinda, mostly cut). You can quickly select the fields you need.
 
@@ -46,6 +49,9 @@ A package containg a lot of tools. Like a nice archive manager (apack/aunpack)
 
 ## glow
 print markdown to the terminal and buntch of other stuff.
+
+## mdcat 
+Nicer markdown format (compared to glow).
 
 ## lazydocker
 A nice TUI for docker.
@@ -97,3 +103,8 @@ Create json
 ## figlet 
 Print input in large letters.
 
+## tokei
+Lines of code util. Very nice if you want to know how large a code base is.
+
+## hyperfine
+cli banchmark tool.
