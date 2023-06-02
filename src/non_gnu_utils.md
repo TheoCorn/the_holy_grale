@@ -108,3 +108,7 @@ Lines of code util. Very nice if you want to know how large a code base is.
 
 ## hyperfine
 cli banchmark tool.
+
+## miniserve
+Mini web server. I use it insted of python -m http.server 8000 or dhttpd.
+It is also good for file sharing insted of ftp.
