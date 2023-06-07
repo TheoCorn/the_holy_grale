@@ -13,3 +13,6 @@ Something I dont realy understand but seems raly cool.
 
 ## pijul
 VCS
+
+## zola
+A HUGO alternative
